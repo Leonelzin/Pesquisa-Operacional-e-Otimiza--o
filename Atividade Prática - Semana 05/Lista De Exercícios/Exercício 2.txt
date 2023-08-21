@@ -1,0 +1,4 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+- A programação linear é capaz de resolver problemas de otimização nos quais a função objetivo e as restrições são lineares.

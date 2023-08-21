@@ -1,0 +1,15 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+8.1. Modelo de Programação Linear:
+
+- Variáveis de decisão: Aj (quantidade dos produtos Pj a serem produzidos)
+- Função objetivo: Maximizar o lucro total, somatório de dj * Aj
+- Restrições: Aj >= 0 (não negatividade); somatório de eij * Aj <= bi (restrições de matéria-prima).
+
+8.2. Modelo de Programação Linear:
+
+- Variáveis de decisão: Produção e Estoque para cada mês
+- Função objetivo: Minimizar o custo total, somatório de custo de produção e custo de estoque
+- Restrições: Produção + Estoque Inicial - Vendas = Estoque Final; capacidade de produção e estoque mensal.
+- Lembre-se de que a formatação exata das respostas pode variar de acordo com as convenções utilizadas em aulas ou trabalhos acadêmicos.

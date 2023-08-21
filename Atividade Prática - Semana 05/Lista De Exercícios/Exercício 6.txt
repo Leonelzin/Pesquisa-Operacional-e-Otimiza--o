@@ -1,0 +1,9 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+Sequência de etapas para resolver um problema de programação linear:
+
+- Formular o problema: identificar variáveis, função objetivo e restrições.
+- Aplicar um método de solução, como o método Simplex.
+- Encontrar a solução ótima que maximiza ou minimiza a função objetivo.
+- Interpretar os resultados, incluindo valores ótimos das variáveis e o valor da função objetivo.

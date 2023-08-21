@@ -1,0 +1,13 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+As principais ferramentas da Pesquisa Operacional incluem:
+
+- Programação Linear
+- Programação Inteira
+- Programação Não Linear
+- Programação Dinâmica
+- Teoria dos Grafos
+- Simulação
+- Análise de Decisão
+- Teoria dos Jogos

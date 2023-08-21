@@ -1,0 +1,4 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+- A programação linear apresenta vantagens sobre a tomada de decisões humanas, pois pode considerar muitas variáveis e restrições de maneira rápida e precisa, evitando o viés humano e obtendo soluções ótimas. Além disso, permite analisar diferentes cenários de forma sistemática.

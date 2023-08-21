@@ -1,0 +1,4 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+- Um exemplo de sistema que pode resolver problemas de programação linear usando recursos computacionais é o Solver no Microsoft Excel.

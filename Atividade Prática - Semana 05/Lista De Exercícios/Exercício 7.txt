@@ -1,0 +1,4 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+- A diferença entre um modelo de programação linear e uma simulação de um sistema é que o modelo de programação linear busca otimizar uma função objetivo sujeita a restrições lineares, enquanto uma simulação modela o comportamento de um sistema ao longo do tempo, muitas vezes usando eventos aleatórios e não necessariamente focando em otimização.

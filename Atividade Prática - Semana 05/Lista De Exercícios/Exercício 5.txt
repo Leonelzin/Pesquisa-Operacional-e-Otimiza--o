@@ -1,0 +1,10 @@
+Douglas Leonel de Almeida
+Matricula - 2110213
+
+Sequência de etapas para formular um problema de programação linear:
+
+- Identificar as variáveis de decisão.
+- Definir a função objetivo a ser otimizada.
+- Estabelecer as restrições do problema.
+- Determinar as limitações das variáveis.
+- Verificar se o problema se encaixa no contexto da programação linear.
